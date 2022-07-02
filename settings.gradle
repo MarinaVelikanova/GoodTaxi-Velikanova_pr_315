@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "GoodTaxi-Velikanova_pr_315"
